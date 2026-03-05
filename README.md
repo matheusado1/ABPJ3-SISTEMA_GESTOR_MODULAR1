@@ -1,1 +1,66 @@
-# ABPJ3-SISTEMA_GESTOR_MODULAR1
+# Sistema Financeiro Pessoal
+
+## 📌 Resumo
+
+Projeto simples desenvolvido em **Python** com o objetivo de ajudar no controle financeiro pessoal.
+O sistema permite registrar **receitas**, **despesas**, visualizar o **saldo atual** e gerar um **relatório financeiro básico**.
+
+---
+
+## 📊 Fluxograma
+
+![Fluxograma.png](Fluxograma.png)
+
+---
+
+## ⚙️ Funcionalidades
+
+* Registrar receitas
+* Registrar despesas
+* Calcular saldo atual
+* Mostrar relatório financeiro
+* Menu interativo no terminal
+
+---
+
+## 🧰 Tecnologias Utilizadas
+
+* Python
+* Terminal / Console
+
+---
+
+## ▶️ Como executar o projeto
+
+1. Ter o **Python instalado** no computador.
+2. Baixar ou clonar este repositório.
+3. Abrir o **terminal** na pasta do projeto.
+4. Executar o programa com o comando:
+
+```bash
+python main.py
+```
+
+---
+
+## 📁 Estrutura do Projeto
+
+```
+projeto-financeiro/
+│
+├── main.py
+├── Fluxograma.png
+└── README.md
+```
+
+---
+
+## 💡 Objetivo do Projeto
+
+Este projeto foi desenvolvido com fins **educacionais**, para praticar conceitos básicos de programação em Python, como:
+
+* Estruturas de decisão (`if`)
+* Estruturas de repetição (`while`)
+* Listas
+* Funções
+* Organização de código
