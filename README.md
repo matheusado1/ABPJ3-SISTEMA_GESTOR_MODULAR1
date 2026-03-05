@@ -33,7 +33,7 @@ O sistema permite registrar **receitas**, **despesas**, visualizar o **saldo atu
 ## ▶️ Como executar o projeto
 
 1. Ter o **Python instalado** no computador.
-2. Baixar ou clonar este repositório.
+2. Baixar este repositório.
 3. Abrir o **terminal** na pasta do projeto.
 4. Executar o programa com o comando:
 
@@ -46,21 +46,14 @@ python main.py
 ## 📁 Estrutura do Projeto
 
 ```
-projeto-financeiro/
+sistema-financeiro-pessoal/
 │
 ├── main.py
 ├── Fluxograma.png
 └── README.md
+└── modulo.py
 ```
 
 ---
 
-## 💡 Objetivo do Projeto
 
-Este projeto foi desenvolvido com fins **educacionais**, para praticar conceitos básicos de programação em Python, como:
-
-* Estruturas de decisão (`if`)
-* Estruturas de repetição (`while`)
-* Listas
-* Funções
-* Organização de código
